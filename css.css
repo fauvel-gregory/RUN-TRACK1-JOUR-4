@@ -1,0 +1,30 @@
+#titreacceuil {
+	
+	color:black;
+    text-align:center;
+	font-family:cursive;
+	border-style: solid;
+	font-size: 10px;
+	font-variant: small-caps;
+}	
+
+#titreaccueil2 {
+	color:black;
+	font-family: cursive;
+	
+   
+}
+#bodyaccueil {
+	background-image: url("image/marbre.jpg");
+	background-size: contain;
+
+}
+	
+#arrondieaccueil {
+	border-radius:10px;
+	border-width: 1.5px;
+   
+}
+#footer {
+	text-align:center;
+}
